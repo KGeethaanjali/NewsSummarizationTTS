@@ -1,8 +1,0 @@
-streamlit
-flask
-requests
-beautifulsoup4
-textblob
-gtts
-nltk
-googletrans==4.0.0-rc1
