@@ -16,16 +16,13 @@ A web app that fetches the latest news articles about a company, performs sentim
 
 ## 🚀 Live Demo
 
-👉 [Try it on Hugging Face Spaces](https://huggingface.co/spaces/your-username/your-space-name)
-
-> Replace the above URL with your actual Hugging Face Space link.
-
+👉 [Try it on Hugging Face Spaces](https://huggingface.co/spaces/Gitanjali9/News_Analyser)
 ---
 
 ## 🛠 Tech Stack
 
 - **Frontend:** Streamlit
-- **Backend:** Pure Python (no Flask required)
+- **Backend:** Pure Python
 - **NLP:** NLTK (VADER sentiment analysis)
 - **Translation:** LibreTranslate API (free, no authentication required)
 - **Text-to-Speech:** Google Text-to-Speech (`gTTS`)
