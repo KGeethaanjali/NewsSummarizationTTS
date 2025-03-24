@@ -1,0 +1,7 @@
+flask
+requests
+beautifulsoup4  # can remove if you're not using it anywhere else
+nltk
+gtts
+googletrans==4.0.0-rc1
+streamlit
